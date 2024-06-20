@@ -14,7 +14,13 @@ The goal of this project is to employ an intelligent system for the identificati
 ● Melanocytic nevi (nv)
 ● Vascular lesions (vasc)
 
+- CSV file contains details about our data points, as shown below:
+
 ![image](https://github.com/aaleksandraristic/Innovative-Skin-Cancer-Screening-ISCS-utilizing-CNN-models/assets/140200824/5947b16f-8415-406a-990d-10896bcd2e61)
+
+- compare images that we used - ‘bkl’ and ‘mel’, as shown below:
+
+![image](https://github.com/aaleksandraristic/Innovative-Skin-Cancer-Screening-ISCS-utilizing-CNN-models/assets/140200824/cd26a4e5-b789-407e-8a3e-387f26d451fb)
 
 
 - resource: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T
